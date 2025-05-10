@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:practica_3_bdd/widgets/entrada_tarea.dart';
+import 'package:bdd_Practica3/widgets/entrada_tarea.dart';
 import 'models/tarea.dart';
 import 'widgets/lista_tarea.dart';
 
